@@ -1,9 +1,11 @@
-from random import * #
 ######################
 # This is a basic    #
 # dice roller for my #
 # games of DnD       #
 ######################
+
+from random import * 
+
 print "Welcome to the dice roller"
 
 while True:
